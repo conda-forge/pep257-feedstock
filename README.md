@@ -16,6 +16,18 @@ can be easily added, for example to cover NumPy docstring conventions.
 pep257 supports Python 2.6, 2.7, 3.2, 3.3, 3.4, pypy and pypy3.
 
 
+Current build status
+====================
+
+Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pep257-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pep257-feedstock)
+OSX: [![TravisCI](https://travis-ci.org/conda-forge/pep257-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pep257-feedstock)
+Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pep257-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pep257-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pep257/badges/version.svg)](https://anaconda.org/conda-forge/pep257)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pep257/badges/downloads.svg)](https://anaconda.org/conda-forge/pep257)
+
 Installing pep257
 =================
 
@@ -36,7 +48,6 @@ It is possible to list all of the versions of `pep257` available on your platfor
 ```
 conda search pep257 --channel conda-forge
 ```
-
 
 
 About conda-forge
@@ -72,18 +83,6 @@ Terminology
 
 **conda-forge** - the place where the feedstock and smithy live and work to
                   produce the finished article (built conda distributions)
-
-Current build status
-====================
-
-Linux: [![Circle CI](https://circleci.com/gh/conda-forge/pep257-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/pep257-feedstock)
-OSX: [![TravisCI](https://travis-ci.org/conda-forge/pep257-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/pep257-feedstock)
-Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/pep257-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/pep257-feedstock/branch/master)
-
-Current release info
-====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pep257/badges/version.svg)](https://anaconda.org/conda-forge/pep257)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/pep257/badges/downloads.svg)](https://anaconda.org/conda-forge/pep257)
 
 
 Updating pep257-feedstock
